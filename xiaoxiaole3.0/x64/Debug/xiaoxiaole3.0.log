@@ -1,0 +1,4 @@
+﻿  xiaoxiaole3.0.cpp
+D:\Program Files (x86)\xiaoxiaole3.0\xiaoxiaole3.0.cpp(321,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Program Files (x86)\xiaoxiaole3.0\xiaoxiaole3.0.cpp(478,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  xiaoxiaole3.0.vcxproj -> D:\Program Files (x86)\xiaoxiaole3.0\x64\Debug\xiaoxiaole3.0.exe
